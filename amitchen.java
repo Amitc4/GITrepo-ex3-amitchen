@@ -1,7 +1,7 @@
 public class amitchen {
   public static void main(String[] args) {
     for (int i=1; i<=5; i++) {
-      System.out.println("My name is Amit Chen"); 
+      System.out.println("My name is Barry Allen and I'm the fastest man alive"); 
     }
   }
 } 
